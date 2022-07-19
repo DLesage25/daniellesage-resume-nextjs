@@ -1,0 +1,118 @@
+{
+    "main": {
+        "name": "Daniel Le'Sage",
+        "occupation": "I am a full-stack developer inspired by the intersection of technology, art, and people.",
+        "description": "",
+        "image": "profilepic.jpg",
+        "bio": "Through my years in the outsourcing services industry, I developed a keen interest in solving complex operational problems through a blend of technology and user-centric process design. I'm also a recording and mixing aficionado with a knack for ambience and downtempo music.",
+        "contactMessage": "Have a project in mind? Let's talk!",
+        "email": "me@daniellesage.com",
+        "address": {
+            "street": "(Your Street)",
+            "city": "San Pedro Sula",
+            "state": "Honduras",
+            "zip": "33102"
+        },
+        "website": "http://www.daniellesage.com",
+        "resumedownload": "http://daniellesage.com/download",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/tbakerx",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "skype",
+                "url": "http://skype.com",
+                "className": "fa fa-skype"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "I have extense experience with modern web development technologies, web architecture design and patterns, and cloud platforms like GCP and AWS.",
+        "work": [
+            {
+                "company": "PartnerHero America",
+                "title": "Director of Engineering",
+                "years": "December 2020 - Present",
+                "description": "I work with a team of over 30 developers tasked at building enterprise products, as well as a small fleet of SaaS offerings. My role consists of supporting PartnerHero's Product team through technical guidance, engineering management, and cross-functional implementation across a number of our development projects."
+            },
+            {
+                "company": "PartnerHero America",
+                "title": "Systems & Optimization Manager",
+                "years": "May 2019 - December 2019",
+                "description": "During my time as the Systems & Optimization manager, I oversaw 4 development teams who were responsible for the buildout of PartnerHero's core tech stack. This included two Chrome extensions, a number of small scale progressive web applications, and various Slack applications that were used by Operations, Finance, and Human Resources."
+            },
+            {
+                "company": "PartnerHero",
+                "title": "Operations Analyst",
+                "years": "February 2015 - May 2019",
+                "description": "As an Operations Analyst, I was responsible for the collection, transformation, maintenance, and exposure of operational, financial, and employee-centric data. I worked with a team of Operations Analysts building replicable reports for internal and client audiences."
+            },
+            {
+                "company": "Trebol Tec S. de R.L.",
+                "title": "Web Developer",
+                "years": "May 2012 - March 2014",
+                "description": "I built a small progressive web application meant at streamlining Trebol Tec's inventory management process. This was a solo project with guidance from management."
+            }
+        ],
+        "education": [
+            {
+                "school": "Universidad de San Pedro Sula",
+                "degree": "Ingenieria Industrial",
+                "graduated": "March 2020",
+                "description": ""
+            },
+            {
+                "school": "Escuela Episcopal El Buen Pastor",
+                "degree": "Bachillerato en Ciencias y Letras",
+                "graduated": "March 2012",
+                "description": ""
+            }
+        ],
+        "skills": [
+            {
+                "name": "JavaScript & Typescript",
+                "level": "95%"
+            },
+            {
+                "name": "NodeJS",
+                "level": "90%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "90%"
+            },
+            {
+                "name": "NextJS",
+                "level": "90%"
+            },
+            {
+                "name": "NestJS & Express-based frameworks",
+                "level": "90%"
+            },
+            {
+                "name": "CSS & HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "Google Cloud Platform",
+                "level": "70%"
+            },
+            {
+                "name": "Kubernetes",
+                "level": "60%"
+            }
+        ]
+    },
+    "testimonials": [
+        {
+            "text": "I am drawn towards the premise that software is meant to facilitate the life of any one person who uses it. Software developers are merely mediators between users and their needs."
+        }
+    ]
+}
