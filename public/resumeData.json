@@ -49,9 +49,15 @@
                 "description": "During my time as the Systems & Optimization manager, I oversaw 4 development teams who were responsible for the buildout of PartnerHero's core tech stack. This included two Chrome extensions, a number of small scale progressive web applications, and various Slack applications that were used by Operations, Finance, and Human Resources."
             },
             {
+                "company": "PartnerHero America",
+                "title": "Web developer - Integrations",
+                "years": "May 2017 - May 2019",
+                "description": "As a web developer for the Integrations team, I built a series of web applications and microservices that powered PartnerHero's reporting suite. My role included the specification, design, implementation and maintenance of these services in a way that met company needs."
+            },
+            {
                 "company": "PartnerHero",
                 "title": "Operations Analyst",
-                "years": "February 2015 - May 2019",
+                "years": "February 2015 - May 2017",
                 "description": "As an Operations Analyst, I was responsible for the collection, transformation, maintenance, and exposure of operational, financial, and employee-centric data. I worked with a team of Operations Analysts building replicable reports for internal and client audiences."
             },
             {
