@@ -2,9 +2,7 @@ import React, { Component } from 'react';
 import { ResumeData } from '../types/ResumeData';
 
 const Header = ({ data }: { data: ResumeData }) => {
-    const { name, occupation, description, address, social } = data || {};
-
-    const { city } = address || {};
+    const { name, occupation, social } = data || {};
 
     const networks = !social
         ? null
@@ -48,19 +46,14 @@ const Header = ({ data }: { data: ResumeData }) => {
                             Resume
                         </a>
                     </li>
-                    <li>
+                    {/* <li>
                         <a className="smoothscroll" href="#portfolio">
                             Works
                         </a>
-                    </li>
+                    </li> */}
                     <li>
                         <a className="smoothscroll" href="#testimonials">
                             Manifesto
-                        </a>
-                    </li>
-                    <li>
-                        <a className="smoothscroll" href="#contact">
-                            Contact
                         </a>
                     </li>
                 </ul>

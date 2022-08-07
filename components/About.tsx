@@ -2,7 +2,7 @@ import Image from 'next/image';
 import React from 'react';
 
 const About = ({ data }: any) => {
-    const { name, image, bio, phone, email, resumeDownload } = data || {};
+    const { name, image, bio, email } = data || {};
 
     return (
         <section id="about">
@@ -32,7 +32,11 @@ const About = ({ data }: any) => {
                         </div>
                         <div className="columns download">
                             <p>
-                                <a href={resumeDownload} className="button">
+                                <a
+                                    href="/Daniel Lesage Resume.pdf"
+                                    download
+                                    className="button"
+                                >
                                     <i className="fa fa-download"></i>Download
                                     Resume
                                 </a>

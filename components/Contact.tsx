@@ -110,7 +110,11 @@ const Contact = ({ data }: { data: ResumeData }) => {
                                     Submit
                                 </button>
                                 <span id="image-loader">
-                                    <Image alt="" src="images/loader.gif" />
+                                    <Image
+                                        alt=""
+                                        src="/images/loader.gif"
+                                        layout="fill"
+                                    />
                                 </span>
                             </div>
                         </fieldset>

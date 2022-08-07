@@ -103,7 +103,7 @@ header .social li a {
     color: #fff;
 }
 header .social li a:hover {
-    color: #11abb0;
+    color: #874948;
 }
 
 /* scrolldown link */
@@ -127,7 +127,7 @@ header .scrolldown a {
     transition: all 0.3s ease-in-out;
 }
 header .scrolldown a:hover {
-    color: #11abb0;
+    color: #874948;
 }
 
 /* primary navigation
@@ -192,6 +192,10 @@ ul#nav li a {
     -o-transition: color 0.2s ease-in-out;
     -ms-transition: color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out;
+}
+
+ul#nav li a:visited {
+    color: '$874948';
 }
 
 ul#nav li a:active {
@@ -1108,5 +1112,5 @@ footer .social-links li:first-child {
     border-radius: 100%;
 }
 #go-top a:hover {
-    background-color: #0f9095;
+    background-color: #874948;
 }
